@@ -1,0 +1,12 @@
+.comment{
+    padding: 15px;
+    margin: 10px;
+    text-align: left;
+    border: 1px solid #3e6667;
+}
+.comment h3{
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    color: #40696b;
+}
